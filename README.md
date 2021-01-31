@@ -37,10 +37,6 @@ gamma.
 To print the results, you'll need to use a program that will give
 pixelated output instead of trying to interpolate.
 
-# Visual cryptography workshop
-
-This is a placeholder.  It's very awkward to use right now.
-
 # License
 
 MIT
